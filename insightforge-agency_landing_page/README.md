@@ -1,11 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/insightforge-agency_landing_page)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/insightforge-agency_landing_page?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/insightforge-agency_landing_page?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CDRcfbHyRqw?style=social)](https://youtu.be/CDRcfbHyRqw)
-
   <br />
   <br />
   
